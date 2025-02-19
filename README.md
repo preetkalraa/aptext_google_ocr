@@ -1,0 +1,1 @@
+# aptext_google_ocr
